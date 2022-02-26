@@ -11,7 +11,7 @@ git clone https://github.com/hiteshkr1995/expence-app-unico.git
 ```
 
 ```bash
-cd expense-app
+cd expence-app-unico
 ```
 
 ```bash
