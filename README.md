@@ -7,23 +7,23 @@ balances between people as in who owes how much to whom.
 ## Installation
 
 ```bash
-  git clone https://github.com/hiteshkr1995/expence-app-unico.git
+git clone https://github.com/hiteshkr1995/expence-app-unico.git
 ```
 
 ```bash
-  cd expense-app
+cd expense-app
 ```
 
 ```bash
-  composer install
+composer install
 ```
 
 ```bash
-  cp .env.example .env
+cp .env.example .env
 ```
 
 ```bash
-  php artisan key:generate
+php artisan key:generate
 ```
 
 After this please set the database credentials in .env we use MYSQL.
@@ -37,12 +37,12 @@ DB_PASSWORD=
 ```
 
 ```bash
-  php artisan migrate
+php artisan migrate
 ```
 
 #### To run project
 ```bash
-  php artisan serve
+php artisan serve
 ```
 ## Postman Collection Instruction
 
