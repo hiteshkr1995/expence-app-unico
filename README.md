@@ -9,8 +9,6 @@ balances between people as in who owes how much to whom.
 
 ## Installation
 
-## Installation
-
 ```bash
 git clone https://github.com/hiteshkr1995/expence-app-unico.git
 ```
